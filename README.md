@@ -4,7 +4,7 @@ Official Repository of RMUTT 09114311: Mathematical Modelling (การสร�
 Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
 
-![Chaos Theory](/images/strangeattractor.gif)
+![Chaos Theory](/images/strangeattractor-4.gif)
 
 
 ## สถานที่เรียน
