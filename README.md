@@ -1,5 +1,5 @@
 # Mathematical Modeling
-Official Repository of RMUTT 09114311: Mathematical Modelling (การสร้างตัวแบบทางคณิตศาสตร์)
+Official Repository of RMUTT 09114311: Mathematical Modeling (การสร้างตัวแบบทางคณิตศาสตร์)
 
 Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
