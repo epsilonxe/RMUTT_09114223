@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Mathematical Modeling
+Official Repository of RMUTT 09114311: Mathematical Modelling (การสร้างตัวแบบทางคณิตศาสตร์)
 
-You can use the [editor on GitHub](https://github.com/epsilonxe/RMUTT_09114311/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Chaos Theory](/images/strangeattractor.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## สถานที่เรียน
+ห้อง ST1905 คณะวิทยาศาสตร์และเทคโนโลยี หรือ ห้องเรียนออนไลน์ผ่านระบบ Microsoft Teams หรือเป็นไปตามประกาศของมหาวิทยาลัย
 
-# Header 1
-## Header 2
-### Header 3
+## ตารางเรียน/สอบ
 
-- Bulleted
-- List
+|   กิจกรรม   |    วัน    |   เวลา        |                 |
+|-----------|----------|---------------|-----------------|
+| บรรยาย     |  อังคาร   |  08.00 - 10.00 | ST1905/MS Teams |
+| ปฏิบัติการ    |  อังคาร   |  10.00 - 12.00 | ST1905/MS Teams |
+| สอบกลางภาค |  TBA   |  09.00 - 12.00 | ST1905/MS Teams |
+| สอบปลายภาค |  TBA   |  09.00 - 12.00 | ST1905/MS Teams |
 
-1. Numbered
-2. List
+## คำอธิบายรายวิชา
 
-**Bold** and _Italic_ and `Code` text
+กระบวนการสร้างตัวแบบ การวิเคราะห์ปัญหาทางคณิตศาสตร์ ตัวแบบจำลองทางคณิตศาสตร์เต็มหน่วย ตัวแบบจำลองทางคณิตศาสตร์ต่อเนื่อง การวิเคราะห์เสถียรภาพ การหาผลเฉลยของตัวแบบจำลองทางคณิตศาสตร์ การทดสอบตัวแบบจำลองทางคณิตศาสตร์
 
-[Link](url) and ![Image](src)
-```
+Mathematical modeling process, mathematical problems analysis, discrete mathematical models, continuous mathematical models, stability analysis, mathematical model solving, mathematical model verification
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## เอกสารประกอบการบรรยาย / ปฏิบัติการ
 
-### Jekyll Themes
+| หัวข้อ 	            |      Download          |
+|-------------------|------------------------|
+| บทนำสู่การสร้างแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_01.pdf) &  [LAB](/labs/)   |
+| เริ่มต้นการสร้างแบบจำลอง |  [Lecture](/materials/ch_02.pdf) &  [LAB](/labs/)   |
+| การตรวจสอบแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_03.pdf) &  [LAB](/labs/)   |
+| แบบจำลองทางคณิตศาสตร์ดีสครีต |  [Lecture](/materials/ch_04.pdf) &  [LAB](/labs/)   |
+| แบบจำลองทางคณิตศาสตร์ต่อเนื่อง |  [Lecture](/materials/ch_05.pdf) &  [LAB](/labs/)   |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epsilonxe/RMUTT_09114311/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## เอกสารอ้างอิง
+* Frank R. Giordano, William P. Fox, Steven B. Horton. A First Course in Mathematical Modeling. Cengage Learning, 2013.
+* Crista Arangala, Nicolas S. Luke, Karen A. Yokley. Mathematical Modeling: Branching Beyond Calculus. CRC Press, 2018
+* John Berry and Ken Houston. Mathematical Modelling. London : Edward Amold, 1995. 
