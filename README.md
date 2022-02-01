@@ -27,14 +27,20 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 
 ## เอกสารประกอบการบรรยาย / ปฏิบัติการ
 
-| หัวข้อ 	            |      Download          |
-|-------------------|------------------------|
-| บทนำสู่การสร้างแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_01.pdf) &  [LAB](/labs/)   |
-| เริ่มต้นการสร้างแบบจำลอง |  [Lecture](/materials/ch_02.pdf) &  [LAB](/labs/)   |
-| การตรวจสอบแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_03.pdf) &  [LAB](/labs/)   |
-| แบบจำลองทางคณิตศาสตร์ดีสครีต |  [Lecture](/materials/ch_04.pdf) &  [LAB](/labs/)   |
-| แบบจำลองทางคณิตศาสตร์ต่อเนื่อง |  [Lecture](/materials/ch_05.pdf) &  [LAB](/labs/)   |
+|    | หัวข้อ 	            |      Download          |
+|----|-------------------|------------------------|
+| 01 | บทนำสู่การสร้างแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_01.pdf)   |
+| 02 | เริ่มต้นการสร้างแบบจำลอง |  [Lecture](/materials/ch_02.pdf)   |
+| 03 | การตรวจสอบแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_03.pdf)    |
+| 04 | แบบจำลองทางคณิตศาสตร์ดีสครีต |  [Lecture](/materials/ch_04.pdf)    |
+| 05 | แบบจำลองทางคณิตศาสตร์ต่อเนื่อง |  [Lecture](/materials/ch_05.pdf)   |
 
+## เอกสารงานปฏิบัติการ
+
+|    |  หัวข้อ 	         |     Download      |
+|----|-------------------|-------------------|
+| 01 | Lottery Model     |   [LAB](/labs/lab_01.pdf) & [Solution](/labs/sol_01.pdf)  |
+| 02 | Fire Evacuation Model |  [LAB](/labs/lab_02.pdf) & [Solution](/labs/sol_02.pdf)  |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
