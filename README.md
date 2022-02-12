@@ -25,7 +25,7 @@ Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
 Mathematical modeling process, mathematical problems analysis, discrete mathematical models, continuous mathematical models, stability analysis, mathematical model solving, mathematical model verification
 
-## เอกสารประกอบการบรรยาย / ปฏิบัติการ
+## เอกสารประกอบการบรรยาย
 
 |    | หัวข้อ 	            |      Download          |
 |----|-------------------|------------------------|
