@@ -39,8 +39,10 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 
 |    |  หัวข้อ 	         |     Download      |
 |----|-------------------|-------------------|
-| 01 | Lottery Model     |   [LAB](/labs/lab_01.ipynb)  |
-| 02 | Fire Evacuation Model |   |
+| 01 | Lottery Model     |   [Lab](/labs/lab_01.ipynb), [Solution](/labs/sol_01.ipynb)  |
+| 02 | Evacuation Model |  [Lab](/labs/lab_02.ipynb), [Solution](/labs/sol_02.ipynb) |
+| 03 | Models in Tennis Competition|  [Lab](/labs/lab_03.ipynb), [Solution](/labs/sol_03.ipynb) |
+| 04 | Models in Product Packaging|  [Lab](/labs/lab_04.ipynb), [Solution](/labs/sol_04.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
