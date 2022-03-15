@@ -43,6 +43,12 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 | 02 | Evacuation Model |  [Lab](/labs/lab_02.ipynb), [Solution](/labs/sol_02.ipynb) |
 | 03 | Models in Tennis Competition|  [Lab](/labs/lab_03.ipynb), [Solution](/labs/sol_03.ipynb) |
 | 04 | Models in Product Packaging|  [Lab](/labs/lab_04.ipynb), [Solution](/labs/sol_04.ipynb) |
+| 05 | Savings Bank Account Models|  [Lab](/labs/lab_05.ipynb), [Solution](/labs/sol_05.ipynb) |
+| 06 | Diet Models|  [Lab](/labs/lab_06.ipynb), [Solution](/labs/sol_06.ipynb) |
+| 07 | Ages Transition of a Specie |  [Lab](/labs/lab_07.ipynb), [Solution](/labs/sol_07.ipynb) |
+| 08 | Warfare with a Lanchester Model|  [Lab](/labs/lab_08.ipynb), [Solution](/labs/sol_08.ipynb) |
+| 09 | Discrete SIR Model|  [Lab](/labs/lab_09.ipynb), [Solution](/labs/sol_09.ipynb) |
+| 10 | Control of Spreading Diseases|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
