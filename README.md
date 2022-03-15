@@ -48,7 +48,7 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 | 07 | Ages Transition of a Specie |  [Lab](/labs/lab_07.ipynb), [Solution](/labs/sol_07.ipynb) |
 | 08 | Warfare with a Lanchester Model|  [Lab](/labs/lab_08.ipynb), [Solution](/labs/sol_08.ipynb) |
 | 09 | Discrete SIR Model|  [Lab](/labs/lab_09.ipynb), [Solution](/labs/sol_09.ipynb) |
-| 10 | Control of Spreading Diseases|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
+| 10 | Control of a Spreading Disease|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
