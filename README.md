@@ -50,6 +50,7 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 | 09 | Discrete SIR Model|  [Lab](/labs/lab_09.ipynb), [Solution](/labs/sol_09.ipynb) |
 | 10 | Control of a Spreading Disease|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
 | 11 | Growth of Bacteria|  [Lab](/labs/lab_11.ipynb), [Solution](/labs/sol_11.ipynb) |
+| 12 | Time of Death Estimation|  [Lab](/labs/lab_12.ipynb), [Solution](/labs/sol_12.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
