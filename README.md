@@ -49,13 +49,13 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 | 08 | Warfare with a Lanchester Model|  [Lab](/labs/lab_08.ipynb), [Solution](/labs/sol_08.ipynb) |
 | 09 | Discrete SIR Model|  [Lab](/labs/lab_09.ipynb), [Solution](/labs/sol_09.ipynb) |
 | 10 | Control of a Spreading Disease|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
+| 11 | Growth of Bacteria|  [Lab](/labs/lab_11.ipynb), [Solution](/labs/sol_11.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
 - การสอบกลางภาค 30%
 - การสอบปลายภาค 30%
-- ปฏิบัติการในชั้นเรียน 20%
-- โครงงานและการนำเสนอ 20%
+- ปฏิบัติการในชั้นเรียน 40%
 
 หากนักศึกษาเข้าเรียนน้อยกว่า 80% ของเวลาเรียนทั้งหมด
 หรือได้คะแนนรวมน้อยกว่า 50% ของคะแนนเต็ม นักศึกษาจะไม่ผ่านในรายวิชานี้ และได้รับการบันทึกผลการเรียน F (เกรด 0.0) 
