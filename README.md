@@ -52,7 +52,7 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 | 11 | Growth of Bacteria|  [Lab](/labs/lab_11.ipynb), [Solution](/labs/sol_11.ipynb) |
 | 12 | Time of Death Estimation|  [Lab](/labs/lab_12.ipynb), [Solution](/labs/sol_12.ipynb) |
 | 13 | Predator-Prey Model|  [Lab](/labs/lab_13.ipynb), [Solution](/labs/sol_13.ipynb) |
-| 14 | Predator-Prey Model with Saturation|  [Lab](/labs/lab_14.ipynb), [Solution](/labs/sol_14.ipynb) |
+| 14 | Modifed Predator-Prey Model|  [Lab](/labs/lab_14.ipynb), [Solution](/labs/sol_14.ipynb) |
 | 15 | Simple SIR Model for COVID-19 Epidemic |  [Lab](/labs/lab_15.ipynb), [Solution](/labs/sol_15.ipynb) |
 
 ## การวัดผลการเรียน
