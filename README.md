@@ -46,11 +46,14 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 | 05 | Savings Bank Account Models|  [Lab](/labs/lab_05.ipynb), [Solution](/labs/sol_05.ipynb) |
 | 06 | Diet Models|  [Lab](/labs/lab_06.ipynb), [Solution](/labs/sol_06.ipynb) |
 | 07 | Ages Transition of a Specie |  [Lab](/labs/lab_07.ipynb), [Solution](/labs/sol_07.ipynb) |
-| 08 | Warfare with a Lanchester Model|  [Lab](/labs/lab_08.ipynb), [Solution](/labs/sol_08.ipynb) |
+| 08 | Warfare with the Lanchester Model|  [Lab](/labs/lab_08.ipynb), [Solution](/labs/sol_08.ipynb) |
 | 09 | Discrete SIR Model|  [Lab](/labs/lab_09.ipynb), [Solution](/labs/sol_09.ipynb) |
 | 10 | Control of a Spreading Disease|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
 | 11 | Growth of Bacteria|  [Lab](/labs/lab_11.ipynb), [Solution](/labs/sol_11.ipynb) |
 | 12 | Time of Death Estimation|  [Lab](/labs/lab_12.ipynb), [Solution](/labs/sol_12.ipynb) |
+| 13 | Predator-Prey Model|  [Lab](/labs/lab_13.ipynb), [Solution](/labs/sol_13.ipynb) |
+| 14 | Predator-Prey Model with Saturation|  [Lab](/labs/lab_14.ipynb), [Solution](/labs/sol_14.ipynb) |
+| 15 | Simple SIR Model for COVID-19 Epidemic |  [Lab](/labs/lab_15.ipynb), [Solution](/labs/sol_15.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
