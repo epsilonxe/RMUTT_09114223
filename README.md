@@ -1,8 +1,10 @@
 # Introduction to Mathematical Modeling
-# Mathematical Modeling
-Official Repository of RMUTT 09114311: Mathematical Modeling (การสร้างตัวแบบทางคณิตศาสตร์)
+Official Repository of RMUTT 09114223: Inroduction to Mathematical Modeling (การสร้างแบบจำลองทางคณิตศาสตร์เบื้องต้น)
 
-Lecturer: Ratthaprom Promkam, Dr.rer.nat
+*Former RMUTT 09114311: Mathematical Modeling (การสร้างตัวแบบทางคณิตศาสตร์)*
+
+Lecturer: Ratthaprom Promkam, Dr.rer.nat. <br>
+Lecturer: Pakeeta Sukprasert, Asst.Prof.Dr. 
 
 
 ![Chaos Theory](/images/strangeattractor-4.gif)
@@ -11,20 +13,19 @@ Lecturer: Ratthaprom Promkam, Dr.rer.nat
 ## สถานที่เรียน
 ห้อง ST1905 คณะวิทยาศาสตร์และเทคโนโลยี หรือ ห้องเรียนออนไลน์ผ่านระบบ Microsoft Teams หรือเป็นไปตามประกาศของมหาวิทยาลัย
 
-## ตารางเรียน/สอบ
+## ตารางเรียน
 
-|   กิจกรรม   |    วัน    |   เวลา        |                 |
-|-----------|----------|---------------|-----------------|
-| บรรยาย     |  อังคาร   |  08.00 - 10.00 | ST1905/MS Teams |
-| ปฏิบัติการ    |  อังคาร   |  10.00 - 12.00 | ST1905/MS Teams |
-| สอบกลางภาค |  TBA   |  09.00 - 12.00 | ST1905/MS Teams |
-| สอบปลายภาค |  TBA   |  09.00 - 12.00 | ST1905/MS Teams |
+|Section  |   Date | Lecture | Workshop | MS-Teams |
+|---------|--------|---------|----------|----------|
+| MA63111 |วันพุธ | 08.00 - 10.00 | 10.00 - 12.00 | `ogus8n9` |
+| AM64111 |วันพุธ | 13.00 - 15.00 | 15.00 - 17.00 | `b3kmwq2` |
+
 
 ## คำอธิบายรายวิชา
 
-กระบวนการสร้างตัวแบบ การวิเคราะห์ปัญหาทางคณิตศาสตร์ ตัวแบบจำลองทางคณิตศาสตร์เต็มหน่วย ตัวแบบจำลองทางคณิตศาสตร์ต่อเนื่อง การวิเคราะห์เสถียรภาพ การหาผลเฉลยของตัวแบบจำลองทางคณิตศาสตร์ การทดสอบตัวแบบจำลองทางคณิตศาสตร์
+แนวคิดของการทำแบบจำลองทางคณิตศาสตร์ ขั้นตอนการทำแบบจำลอง การจำแนกชนิดของแบบจำลอง การทดสอบแบบจำลอง การประมาณค่าพารามิเตอร์ของแบบจำลอง การจำลองสถานการณ์ และตัวอย่างการใช้งานแบบจำลองที่สำคัญในยุคปัจจุบัน และปฏิบัติการที่เกี่ยวข้อง
 
-Mathematical modeling process, mathematical problems analysis, discrete mathematical models, continuous mathematical models, stability analysis, mathematical model solving, mathematical model verification
+Concepts of mathematical modeling, mathematical modeling processes and constructions, model classification, model evaluations, parameters estimation, model simulations and significant mathematical models usage of today’s applications and related laboratory
 
 ## เอกสารประกอบการบรรยาย
 
@@ -58,9 +59,10 @@ Mathematical modeling process, mathematical problems analysis, discrete mathemat
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
-- การสอบกลางภาค 30%
-- การสอบปลายภาค 30%
-- ปฏิบัติการในชั้นเรียน 40%
+- การสอบกลางภาค 25%
+- การสอบปลายภาค 25%
+- ปฏิบัติการในชั้นเรียน 25%
+- โครงงาน 25%
 
 หากนักศึกษาเข้าเรียนน้อยกว่า 80% ของเวลาเรียนทั้งหมด
 หรือได้คะแนนรวมน้อยกว่า 50% ของคะแนนเต็ม นักศึกษาจะไม่ผ่านในรายวิชานี้ และได้รับการบันทึกผลการเรียน F (เกรด 0.0) 
