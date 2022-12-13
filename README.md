@@ -41,21 +41,21 @@ Concepts of mathematical modeling, mathematical modeling processes and construct
 
 |    |  หัวข้อ 	         |     Download      |
 |----|-------------------|-------------------|
-| 01 | Lottery Model     |   [Lab](/labs/lab_01.ipynb), [Solution](/labs/sol_01.ipynb)  |
-| 02 | Evacuation Model |  [Lab](/labs/lab_02.ipynb), [Solution](/labs/sol_02.ipynb) |
-| 03 | Models in Tennis Competition|  [Lab](/labs/lab_03.ipynb), [Solution](/labs/sol_03.ipynb) |
-| 04 | Models in Product Packaging|  [Lab](/labs/lab_04.ipynb), [Solution](/labs/sol_04.ipynb) |
-| 05 | Savings Bank Account Models|  [Lab](/labs/lab_05.ipynb), [Solution](/labs/sol_05.ipynb) |
-| 06 | Diet Models|  [Lab](/labs/lab_06.ipynb), [Solution](/labs/sol_06.ipynb) |
-| 07 | Ages Transition of a Specie |  [Lab](/labs/lab_07.ipynb), [Solution](/labs/sol_07.ipynb) |
-| 08 | Warfare with the Lanchester Model|  [Lab](/labs/lab_08.ipynb), [Solution](/labs/sol_08.ipynb) |
-| 09 | Discrete SIR Model|  [Lab](/labs/lab_09.ipynb), [Solution](/labs/sol_09.ipynb) |
-| 10 | Control of a Spreading Disease|  [Lab](/labs/lab_10.ipynb), [Solution](/labs/sol_10.ipynb) |
-| 11 | Growth of Bacteria|  [Lab](/labs/lab_11.ipynb), [Solution](/labs/sol_11.ipynb) |
-| 12 | Time of Death Estimation|  [Lab](/labs/lab_12.ipynb), [Solution](/labs/sol_12.ipynb) |
-| 13 | Predator-Prey Model|  [Lab](/labs/lab_13.ipynb), [Solution](/labs/sol_13.ipynb) |
-| 14 | Modifed Predator-Prey Model|  [Lab](/labs/lab_14.ipynb), [Solution](/labs/sol_14.ipynb) |
-| 15 | Simple SIR Model for COVID-19 Epidemic |  [Lab](/labs/lab_15.ipynb), [Solution](/labs/sol_15.ipynb) |
+| 01 | Lottery Model     |   [LAB](/labs/lab_01.zip)  |
+| 02 | Evacuation Model |  [LAB](/labs/lab_02.zip) |
+| 03 | Models in Tennis Competition|  [LAB](/labs/lab_03.) |
+| 04 | Models in Product Packaging|  [LAB](/labs/lab_04.zip) |
+| 05 | Savings Bank Account Models|  [LAB](/labs/lab_05.zip) |
+| 06 | Diet Models|  [LAB](/labs/lab_06.zip) |
+| 07 | Ages Transition of a Specie |  [LAB](/labs/lab_07.zip) |
+| 08 | Warfare with the Lanchester Model|  [LAB](/labs/lab_08.zip) |
+| 09 | Discrete SIR Model|  [LAB](/labs/lab_09.zip) |
+| 10 | Control of a Spreading Disease|  [LAB](/labs/lab_10.zip) |
+| 11 | Growth of Bacteria|  [LAB](/labs/lab_11.zip) |
+| 12 | Time of Death Estimation|  [LAB](/labs/lab_12.zip) |
+| 13 | Predator-Prey Model|  [LAB](/labs/lab_13.zip) |
+| 14 | Modifed Predator-Prey Model|  [LAB](/labs/lab_14.zip) |
+| 15 | Simple SIR Model for COVID-19 Epidemic |  [LAB](/labs/lab_15.zip) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
