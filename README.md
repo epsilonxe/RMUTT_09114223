@@ -41,21 +41,21 @@ Concepts of mathematical modeling, mathematical modeling processes and construct
 
 |    |  หัวข้อ 	         |     Download      |
 |----|-------------------|-------------------|
-| 01 | Lottery Model     |   [LAB](/labs/lab_01.zip)  |
-| 02 | Evacuation Model |  [LAB](/labs/lab_02.zip) |
-| 03 | Models in Tennis Competition|  [LAB](/labs/lab_03.) |
-| 04 | Models in Product Packaging|  [LAB](/labs/lab_04.zip) |
-| 05 | Savings Bank Account Models|  [LAB](/labs/lab_05.zip) |
-| 06 | Diet Models|  [LAB](/labs/lab_06.zip) |
-| 07 | Ages Transition of a Specie |  [LAB](/labs/lab_07.zip) |
-| 08 | Warfare with the Lanchester Model|  [LAB](/labs/lab_08.zip) |
-| 09 | Discrete SIR Model|  [LAB](/labs/lab_09.zip) |
-| 10 | Control of a Spreading Disease|  [LAB](/labs/lab_10.zip) |
-| 11 | Growth of Bacteria|  [LAB](/labs/lab_11.zip) |
-| 12 | Time of Death Estimation|  [LAB](/labs/lab_12.zip) |
-| 13 | Predator-Prey Model|  [LAB](/labs/lab_13.zip) |
-| 14 | Modifed Predator-Prey Model|  [LAB](/labs/lab_14.zip) |
-| 15 | Simple SIR Model for COVID-19 Epidemic |  [LAB](/labs/lab_15.zip) |
+| 01 | Lottery Model     |   [LAB](/labs/lab-01.zip)  |
+| 02 | Evacuation Model |  [LAB](/labs/lab-02.zip) |
+| 03 | Models in Tennis Competition|  [LAB](/labs/lab-03.) |
+| 04 | Models in Product Packaging|  [LAB](/labs/lab-04.zip) |
+| 05 | Savings Bank Account Models|  [LAB](/labs/lab-05.zip) |
+| 06 | Diet Models|  [LAB](/labs/lab-06.zip) |
+| 07 | Ages Transition of a Specie |  [LAB](/labs/lab-07.zip) |
+| 08 | Warfare with the Lanchester Model|  [LAB](/labs/lab-08.zip) |
+| 09 | Discrete SIR Model|  [LAB](/labs/lab-09.zip) |
+| 10 | Control of a Spreading Disease|  [LAB](/labs/lab-10.zip) |
+| 11 | Growth of Bacteria|  [LAB](/labs/lab-11.zip) |
+| 12 | Time of Death Estimation|  [LAB](/labs/lab-12.zip) |
+| 13 | Predator-Prey Model|  [LAB](/labs/lab-13.zip) |
+| 14 | Modifed Predator-Prey Model|  [LAB](/labs/lab-14.zip) |
+| 15 | Simple SIR Model for COVID-19 Epidemic |  [LAB](/labs/lab-15.zip) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
