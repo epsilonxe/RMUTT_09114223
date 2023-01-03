@@ -39,14 +39,14 @@ Concepts of mathematical modeling, mathematical modeling processes and construct
 
 ## เอกสารงานปฏิบัติการ
 
-|    |  หัวข้อ 	         |     Download      |
+|    |  ปฏิบัติการ 	         |     Download      |
 |----|-------------------|-------------------|
 | 01 | Lottery Model     |   [LAB](/labs/lab-01.zip)  |
 | 02 | Evacuation Model |  [LAB](/labs/lab-02.zip) |
-| 03 | Models in Tennis Competition|  [LAB](/labs/lab-03.) |
-| 04 | Models in Product Packaging|  [LAB](/labs/lab-04.zip) |
-| 05 | Savings Bank Account Models|  [LAB](/labs/lab-05.zip) |
-| 06 | Diet Models|  [LAB](/labs/lab-06.zip) |
+| 03 | Product Packaging|  [LAB](/labs/lab-03.zip) |
+| 04 | Ice Cream Parlor Model |  [LAB](/labs/lab-04.zip) |
+| 05 | Savings Bank Account Model|  [LAB](/labs/lab-05.zip) |
+| 06 | Diet Model|  [LAB](/labs/lab-06.zip) |
 | 07 | Ages Transition of a Specie |  [LAB](/labs/lab-07.zip) |
 | 08 | Warfare with the Lanchester Model|  [LAB](/labs/lab-08.zip) |
 | 09 | Discrete SIR Model|  [LAB](/labs/lab-09.zip) |
