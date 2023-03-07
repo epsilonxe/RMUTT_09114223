@@ -46,11 +46,11 @@ Concepts of mathematical modeling, mathematical modeling processes and construct
 | 03 | Product Packaging|  [LAB](/labs/lab-03.zip) |
 | 04 | Ice Cream Parlor Model |  [LAB](/labs/lab-04.zip) |
 | 05 | Savings Bank Account Models|  [LAB](/labs/lab-05.zip) |
-| 06 | Simple Diet Models|  [LAB](/labs/lab-06.zip) |
-| 07 | Age-by-State Matrix Population Models |  [LAB](/labs/lab-07.zip) |
-| 08 | Warfare with the Lanchester Models|  [LAB](/labs/lab-08.zip) |
-| 09 | Discrete SIR Models|  [LAB](/labs/lab-09.zip) |
-| 10 | Disease Spread Control|  [LAB](/labs/lab-10.zip) |
+| 06 | Simple Diet Models|  [LAB](/labs/lab-06.ipynb) |
+| 07 | Age-by-State Matrix Population Models |  [LAB](/labs/lab-07.ipynb) |
+| 08 | Warfare with the Lanchester Models|  [LAB](/labs/lab-08.ipynb) |
+| 09 | Discrete SIR Models|  [LAB](/labs/lab-09.ipynb) |
+| 10 | Disease Spread Control|  [LAB](/labs/lab-10.ipynb) |
 | 11 | Growth of Bacteria|  [LAB](/labs/lab-11.zip) |
 | 12 | Time of Death Estimation|  [LAB](/labs/lab-12.zip) |
 | 13 | Predator-Prey Models|  [LAB](/labs/lab-13.zip) |
