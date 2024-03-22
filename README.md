@@ -3,7 +3,7 @@ Official Repository of RMUTT 09114223: Inroduction to Mathematical Modeling (ก
 
 *Former RMUTT 09114311: Mathematical Modeling (การสร้างตัวแบบทางคณิตศาสตร์)*
 
-Lecturer: Ratthaprom Promkam, Dr.rer.nat. <br>
+<!-- Lecturer: Ratthaprom Promkam, Dr.rer.nat. <br> -->
 Lecturer: Pakeeta Sukprasert, Asst.Prof.Dr. 
 
 
