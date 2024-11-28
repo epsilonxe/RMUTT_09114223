@@ -1,10 +1,8 @@
 # Introduction to Mathematical Modeling
 Official Repository of RMUTT 09114223: Inroduction to Mathematical Modeling (การสร้างแบบจำลองทางคณิตศาสตร์เบื้องต้น)
 
-*Former RMUTT 09114311: Mathematical Modeling (การสร้างตัวแบบทางคณิตศาสตร์)*
 
-<!-- Lecturer: Ratthaprom Promkam, Dr.rer.nat. <br> -->
-Lecturer: Pakeeta Sukprasert, Asst.Prof.Dr. 
+Lecturer: Assoc. Prof. Wongvisarut Khuangsatung, Ph.D. 
 
 
 ![Chaos Theory](/images/strangeattractor-4.gif)
@@ -17,8 +15,7 @@ Lecturer: Pakeeta Sukprasert, Asst.Prof.Dr.
 
 |Section  |   Date | Lecture | Workshop | MS-Teams |
 |---------|--------|---------|----------|----------|
-| MA63111 |วันพุธ | 08.00 - 10.00 | 10.00 - 12.00 | `ogus8n9` |
-| AM64111 |วันพุธ | 13.00 - 15.00 | 15.00 - 17.00 | `b3kmwq2` |
+| AM66111 |วันพฤหัสบดี | 09.00 - 10.00 | 10.00 - 12.00 | `pe5jtuj` |
 
 
 ## คำอธิบายรายวิชา
