@@ -48,11 +48,11 @@ Concepts of mathematical modeling, mathematical modeling processes and construct
 | 08 | Warfare with the Lanchester Models|  [LAB](/labs/lab-08.ipynb) |
 | 09 | Discrete SIR Models|  [LAB](/labs/lab-09.ipynb) |
 | 10 | Disease Spread Control|  [LAB](/labs/lab-10.ipynb) |
-| 11 | Growth of Bacteria|  [LAB](/labs/lab-11.zip) |
-| 12 | Time of Death Estimation|  [LAB](/labs/lab-12.zip) |
-| 13 | Predator-Prey Models|  [LAB](/labs/lab-13.zip) |
-| 14 | Modifed Predator-Prey Models|  [LAB](/labs/lab-14.zip) |
-| 15 | Simple SIR Models for COVID-19 Epidemic|  [LAB](/labs/lab-15.zip) |
+| 11 | Growth of Bacteria|  [LAB](/labs/lab-11.ipynb) |
+| 12 | Time of Death Estimation|  [LAB](/labs/lab-12.ipynb) |
+| 13 | Predator-Prey Models|  [LAB](/labs/lab-13.ipynb) |
+| 14 | Modifed Predator-Prey Models|  [LAB](/labs/lab-14.ipynb) |
+| 15 | Simple SIR Models for COVID-19 Epidemic|  [LAB](/labs/lab-15.ipynb) |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
