@@ -15,7 +15,8 @@ Lecturer: Assoc. Prof. Wongvisarut Khuangsatung, Ph.D.
 
 |Section  |   Date | Lecture | Workshop | MS-Teams |
 |---------|--------|---------|----------|----------|
-| AM66111 |วันพฤหัสบดี | 09.00 - 10.00 | 10.00 - 12.00 | `pe5jtuj` |
+|Sec01 (AM67111) | TUE | 13.00 - 15.00  |15.00 - 17.00       |  `zh4tgnp` |
+
 
 
 ## คำอธิบายรายวิชา
