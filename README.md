@@ -29,11 +29,11 @@ Concepts of mathematical modeling, mathematical modeling processes and construct
 
 |    | หัวข้อ 	            |      Download          |
 |----|-------------------|------------------------|
-| 01 | บทนำสู่การสร้างแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_01.pdf)   |
-| 02 | เริ่มต้นการสร้างแบบจำลอง |  [Lecture](/materials/ch_02.pdf)   |
-| 03 | การตรวจสอบแบบจำลองทางคณิตศาสตร์ |  [Lecture](/materials/ch_03.pdf)    |
-| 04 | แบบจำลองทางคณิตศาสตร์ดีสครีต |  [Lecture](/materials/ch_04.pdf)    |
-| 05 | แบบจำลองทางคณิตศาสตร์ต่อเนื่อง |  [Lecture](/materials/ch_05.pdf)   |
+| 01 | [บทนำสู่การสร้างแบบจำลองทางคณิตศาสตร์](./materials/pres_01.pdf) |  [Lecture](/materials/ch_01.pdf)   |
+| 02 | [เริ่มต้นการสร้างแบบจำลอง](./materials/pres_02.pdf) |  [Lecture](/materials/ch_02.pdf)   |
+| 03 | [การตรวจสอบแบบจำลองทางคณิตศาสตร์](./materials/pres_02.pdf) |  [Lecture](/materials/ch_03.pdf)    |
+| 04 | [แบบจำลองทางคณิตศาสตร์ดีสครีต](./materials/pres_04.pdf) |  [Lecture](/materials/ch_04.pdf)    |
+| 05 | [แบบจำลองทางคณิตศาสตร์ต่อเนื่อง](./materials/pres_05.pdf) |  [Lecture](/materials/ch_05.pdf)   |
 
 ## เอกสารงานปฏิบัติการ
 
